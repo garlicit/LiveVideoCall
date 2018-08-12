@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/OpenLiveOriginal.iml" filepath="$PROJECT_DIR$/OpenLiveOriginal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LiveVideoDesktop.iml" filepath="$PROJECT_DIR$/LiveVideoDesktop.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
